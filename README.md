@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes for GitHub
 08232022
 I love GitHub. 
+==================
+08262022   Have a nice day.
